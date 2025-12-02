@@ -17,6 +17,7 @@ Explainability and decision usability over academic complexity
 Note: All datasets, structures, and outputs are anonymized. Logic and methodology reflect real-world implementations.
 
 📂 Case Studies Included
+
 1️⃣ Jewellery Demand Forecasting
 
 📁 jewellery-demand-forecasting/
